@@ -119,9 +119,9 @@ The application fetches live currency exchange rates from a public exchange-rate
 ## 📸 Application Preview
 
 
-```md
-img
-```
+<img width="1393" height="981" alt="Screenshot 2026-06-18 161034" src="https://github.com/user-attachments/assets/0dce81f9-672e-4d24-861f-90bba8f29f77" />
+
+
 
 ---
 
